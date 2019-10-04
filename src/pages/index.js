@@ -135,7 +135,7 @@ componentDidMount() {
                 fontWeight={700}
                 py={[5, 6]}
               >
-                The Crescent® is a unique, luxury, mixed-use development consisting of 1.1 million gross square feet of office space and 165,000 gross square feet in The Courtyard. In one prestigious location, the finest office spaces, hotel accommodations, restaurants, spa, retail shops, and services are available.
+                The Crescent is a unique, luxury, mixed-use development consisting of 1.1 million gross square feet of office space and 165,000 gross square feet in The Courtyard. In one prestigious location, the finest office spaces, hotel accommodations, restaurants, spa, retail shops, and services are available.
               </Box>
             </Container>
             <section id="announcement">  
